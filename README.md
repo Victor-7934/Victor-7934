@@ -41,11 +41,11 @@ Passionné par la data, le machine learning et le deep learning
 
 ---
 
-## 🚀 Projects
+## 🚀 Projets
 
-### 🌐 E-Portfolio Platform
+### 🌐 Générateteur d'E-Portfolio 
 
-Personal e-portfolio web application developed with FastAPI, SQLModel and JWT authentication allowing users to manage professional experiences and education through a secure multi-user CRUD system.
+Application web de portfolio numérique personnel développée avec FastAPI, SQLModel et une authentification JWT, permettant aux utilisateurs de gérer leur parcours professionnel et leur formation grâce à un système CRUD multi-utilisateurs sécurisé.
 
 ### ☀️ SolPOC Scheduler
 
