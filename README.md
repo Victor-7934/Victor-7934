@@ -1,5 +1,8 @@
 # Salut 👋, moi c'est Victor
 
+<img width="498" height="289" alt="tk78-bop" src="https://github.com/user-attachments/assets/bb7e26db-4616-4ba2-8a4a-299e5005bd3f" />
+
+
 ### Étudiant Data IA · EPF Engineering School
 
 Passionné par la data, le machine learning et le deep learning
