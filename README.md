@@ -2,7 +2,7 @@
 
 ### Étudiant Data IA · EPF Engineering School
 
-Passionné par la data, le machine learning et le développement d'applications intelligentes.
+Passionné par la data, le machine learning et le deep learning
 
 ---
 
